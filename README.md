@@ -9,4 +9,5 @@ some more dummy text
 * more git
 * cloud with Gilbert
 * docker- if time permits
+* homework and reading
 
