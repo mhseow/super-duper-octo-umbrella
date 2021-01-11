@@ -11,3 +11,6 @@ some more dummy text
 * docker- if time permits
 * homework and reading
 
+![](brand-logo.png)
+
+
