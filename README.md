@@ -1,2 +1,12 @@
-# super-duper-octo-umbrella
-This is a test project to start learning about Git
+# This is a test repository
+
+## This text is somehow smaller
+
+some more dummy text
+
+### Here is a list of things we will do later today:
+
+* more git
+* cloud with Gilbert
+* docker- if time permits
+
