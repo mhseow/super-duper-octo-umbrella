@@ -13,4 +13,4 @@ some more dummy text
 
 ![](brand-logo.png)
 
-
+![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
